@@ -18,11 +18,12 @@
 
 ## About Me
 
-I focus on backend to make **servers behave**, **tasks orchestrate themselves**, and **agents talk nicely** (sometimes with JSON bribes).  
+My main focus is backend to make servers behave, go down rabbit holes, and force agent models talk nicely (sometimes with JSON bribes). 
 
 When I’m not debugging, I’m probably:
-- Writing code that even future-me can understand  
+- Writing code that future-me can understand 
 - Coding games to relax (stress more)
+- Playing chess (the only game i refuse to code)
   
 ---
 
