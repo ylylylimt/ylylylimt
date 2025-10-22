@@ -30,7 +30,7 @@ When I’m not debugging, I’m probably:
 ## My Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,mvc,docker,kubernetes,mongodb,postgresql,python,html,css,js,typescript,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,mongodb,postgresql,python,html,css,js,typescript,git,linux" />
 </p>
 
 > Main: **Java + Python + DBs**  
