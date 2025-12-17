@@ -18,12 +18,12 @@
 
 ## About Me
 
-My main focus is backend to make servers behave, go down rabbit holes, and force agent models talk nicely (sometimes with JSON bribes). 
+My main focus is backend + going down rabbit holes. 
 
 When I’m not debugging, I’m probably:
 - Writing code that future-me can understand 
 - Coding games to relax (stress more)
-- Playing chess (the only game i refuse to code)
+- Playing chess (only game I refuse to code)
   
 ---
 
@@ -43,9 +43,9 @@ When I’m not debugging, I’m probably:
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🧩 **[Multi-Agent Infrastructure](https://github.com/ylylylimt/Multi_Agent_Infrastructure)** | A full backend system where agents create, message, and complete tasks under an orchestrator’s watchful eye. Basically, it’s like 1984 (George Orwell). | `Java`, `Spring Boot`, `Docker`, `Feign`, `REST` |
-| 💰 **[Expense Limiter](https://github.com/ylylylimt/Expense-Limiter)** | A microservice that helps you say “no” to your inner shopoholic (I cried making it). | `Java`, `Spring Boot`, `MongoDB`, `JWT`, `Security` |
+| 💰 **[Expense Limiter](https://github.com/ylylylimt/Expense-Limiter)** | A microservice that helps you say “no” to your inner shopoholic (I cried making it) | `Java`, `Spring Boot`, `MongoDB`, `JWT`, `Security` |
 | 🕹️ **[Prison Break](https://github.com/ylylylimt/Prison-Break)** | A maze game. Yes, it's from series. No, there is no Miller. | `Java`, `Processing` |
-| 👾 **[Space Invaders Remake](https://github.com/ylylylimt/Space-Invaders-Remake)** | The aliens are back — and slightly laggy. | `Python`, `Networking` |
+| 👾 **[Space Invaders Remake](https://github.com/ylylylimt/Space-Invaders-Remake)** | The aliens are back - slightly laggy. | `Python`, `Networking` |
 | 🏰 **[Game of Thrones Web App](https://github.com/ylylylimt/Game-of-Thrones)** | A responsive fan web app. Winter came with CRUD. | `HTML`, `CSS`, `JavaScript`, `SQL` |
 | ⚙️ **[Awesome & Dark Tactics](https://github.com/S2-group/AwesomeAndDarkTactics)** | My thesis project on Sustainable software development. | `Docs`, `Design Patterns` |
 
