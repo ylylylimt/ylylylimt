@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">So, who is Alua?</h1>
-<h3 align="center">Java Backend Dev • SWE • Game Dev (occasionally)</h3>
+<h3 align="center">game dev • math enthusiast • swe</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alua-rakhmankulova-424bbb28b/" target="_blank" style="margin-right: 10px;">
@@ -21,34 +21,34 @@
 My main focus is backend + going down rabbit holes. 
 
 When I’m not debugging, I’m probably:
-- Writing code that future-me can understand 
-- Coding games to relax (stress more)
-- Playing chess (only game I refuse to code)
+- optimising game performance metrics 
+- writing code that future-me can understand 
+- or playing chess ;)
   
 ---
 
 ## My Tech Stack 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,docker,kubernetes,react,mongodb,postgresql,python,html,css,js,typescript,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,maven,docker,kubernetes,react,mongodb,postgresql,js,typescript,git,linux" />
 </p>
 
-> Main: **Java + Python + React**  
-> Side quests: **Docker**, **CI/CD**, and **AWS adventures**
+> Main: **Python + Java**  
+> Side quests: **Bloomberg**, **CI/CD**, and **async flow automations**
 
 ---
 
-## Projects I actually finished (and I’m proud of it)
+## Projects I recently finished (and I’m proud of it)
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🤑 **[Market Making Simulator](https://github.com/ylylylimt/mm-simulator)** | Big brain project tbh, just check it out.  | `React`, `JS` |
+| 🤑 **[Market Making Simulator](https://github.com/ylylylimt/mm-simulator)** | Training playground for interns. | `React`, `JS` |
 | 🇬🇷 **[Black-Scholes-Merton Model](https://github.com/ylylylimt/black-scholes-option-pricer)** | My take on Greeks.  | `Maths`, `Python` |
-| 🤖 **[Multi-Agent Infrastructure](https://github.com/ylylylimt/Multi_Agent_Infrastructure)** | Backend with agents that create, message, and complete tasks under an orchestrator’s watchful eye. Def not reference to 1984 (G.O.). | `Java`, `Spring Boot`, `Docker`, `Feign`, `REST` |
-| 😭 **[Expense Limiter](https://github.com/ylylylimt/Expense-Limiter)** | Microservice that helps you say “no” to your inner shopoholic (I cried making it) | `Java`, `Spring Boot`, `MongoDB`, `JWT`, `Security` |
-| 🕹️ **[Prison Break](https://github.com/ylylylimt/Prison-Break)** | A maze game. Yes, name's from series. No, there is no Miller. | `Java`, `Processing` |
-| 👽 **[Space Invaders Remake](https://github.com/ylylylimt/Space-Invaders-Remake)** | The aliens in trend. Slightly laggy. | `Python`, `Networking` |
-| ❄️ **[Game of Thrones Web App](https://github.com/ylylylimt/Game-of-Thrones)** | A responsive fan web app. Winter came with CRUD. | `HTML`, `CSS`, `JS`, `SQL` |
-| ⚙️ **[Awesome & Dark Tactics](https://github.com/S2-group/AwesomeAndDarkTactics)** | BSc thesis project on Sustainable software development. | `ATLAS.ti`, `Design Patterns` |
+| 🤖 **[Multi-Agent Infrastructure](https://github.com/ylylylimt/Multi_Agent_Infrastructure)** | 1984 (G.O.). | `Java`, `Spring Boot`, `Docker`, `Feign`, `REST` |
+| 😭 **[Expense Limiter](https://github.com/ylylylimt/Expense-Limiter)** | Microservices + DB exploration | `Java`, `Spring Boot`, `MongoDB`, `JWT`, `Security` |
+| 🕹️ **[Prison Break](https://github.com/ylylylimt/Prison-Break)** | A maze game. Inspired by Prison Break (2005). No, there is no Miller. | `Java`, `Processing` |
+| 👽 **[Space Invaders Remake](https://github.com/ylylylimt/Space-Invaders-Remake)** | The aliens in trend. Python network routing experiment. | `Python`, `Networking` |
+| ❄️ **[Game of Thrones Web App](https://github.com/ylylylimt/Game-of-Thrones)** | Winter came with CRUD. | `HTML`, `CSS`, `JS`, `SQL` |
+| ⚙️ **[Awesome & Dark Tactics](https://github.com/S2-group/AwesomeAndDarkTactics)** | My BSc thesis project on Sustainable software development. | `ATLAS.ti`, `Design Patterns` |
 
 ---
